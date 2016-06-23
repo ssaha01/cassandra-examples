@@ -1,0 +1,7 @@
+Total records processed: 1048576
+Total records successfully inserted in flights table: 1048576
+Total records successfully inserted in flights_by_origin_airport table: 1048576
+Total records successfully inserted in flights_by_flight_num table: 1048576
+Disconnected from the target VM, address: '127.0.0.1:51714', transport: 'socket'
+
+Process finished with exit code 0
